@@ -26,7 +26,7 @@ var siteConfig = {
     movieCdn: "https://raw.githubusercontent.com/askgifdotcom/sumitc91.github.io/master/Movies",
     companyCdn: "https://raw.githubusercontent.com/siteA-ask/CompanyLogo/main/Logo/",
     copyrightYear: "2021",
-    lastCached: "2020",
+    lastCached: "2021",
     site: "ShotCutDotCom"
 };
 
